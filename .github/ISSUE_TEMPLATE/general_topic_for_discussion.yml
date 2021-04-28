@@ -1,0 +1,13 @@
+---
+name: General topic 
+description: Describe about the general topic that you want to discuss in weekly IRC community meeting.
+
+- type: textarea
+  attributes:
+    label: Summary
+    description: Explain the details of the topic that you want to dicuss in Ansible Community IRC meeting below.
+    placeholder: >-
+      Details about the topic and useful links if any.
+  validations:
+    required: true
+

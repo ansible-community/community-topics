@@ -1,0 +1,13 @@
+---
+name: New Collection for inclusion into Ansible package
+description: Discuss about the newly submitted collection for inclusion.
+
+- type: textarea
+  attributes:
+    label: Summary
+    description: Explain about the newly submitted collection below.
+    placeholder: >-
+      Link to the dicussion created under ansible-collections/ansible-inclusion GitHub repository and details/clarifications to discuss in the meeting.
+  validations:
+    required: true
+

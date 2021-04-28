@@ -1,0 +1,30 @@
+---
+name: New idea or Proposal 
+description: Suggest an idea or submit a new proposal to improvise the Ansible Community.
+
+- type: textarea
+  attributes:
+    label: Summary
+    description: Explain about the new idea or proposal breifly below.
+    placeholder: >-
+      Details about the new idea/proposal and links to GitHub issues/PR if any.
+  validations:
+    required: true
+
+- type: input
+  attributes:
+    label: Component Name
+    description: >-
+      Write the short name of the collection_name, module, plugin, python, CI, etc below,
+      *use your best guess if unsure*.
+    placeholder: collection_name, module, plugin, python, CI, etc.
+  validations:
+    required: false
+
+- type: textarea
+  attributes:
+    label: Additional Information
+    description: |
+      **HINT:** You can paste https://gist.github.com links for larger files.
+  validations:
+    required: false
