@@ -1,5 +1,5 @@
 ---
-name: New idea or Proposal 
+name: New idea or proposal 
 description: Suggest an idea or submit a new proposal to improvise the Ansible Community.
 
 - type: textarea
