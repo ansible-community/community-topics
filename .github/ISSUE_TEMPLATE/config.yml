@@ -8,7 +8,7 @@ contact_links:
   about: Process to include a new collection into the Ansible package.
 - name: 💬 Talks to the community
   url: https://docs.ansible.com/ansible/latest/community/communication.html?utm_medium=github&utm_source=issue_template_chooser#mailing-list-information
-  about: Please ask and answer usage questions here
+  about: Please ask and answer usage questions here.
 - name: ⚡ Working groups
   url: https://github.com/ansible/community/wiki
   about: Interested in improving a specific area? Become a part of a working group!
