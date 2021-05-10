@@ -7,7 +7,7 @@ description: Suggest an idea or submit a new proposal to improvise the Ansible C
     label: Summary
     description: Explain about the new idea or proposal briefly below.
     placeholder: >-
-      Details about the new idea/proposal and links to GitHub issues/PR if any.
+      Details about the new idea/proposal and links to GitHub issues/PRs if any.
   validations:
     required: true
 
