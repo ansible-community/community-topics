@@ -11,16 +11,6 @@ description: Suggest an idea or submit a new proposal to improvise the Ansible C
   validations:
     required: true
 
-- type: input
-  attributes:
-    label: Component Name
-    description: >-
-      Write the short name of the collection_name, module, plugin, python, CI, etc below,
-      *use your best guess if unsure*.
-    placeholder: collection_name, module, plugin, python, CI, etc.
-  validations:
-    required: false
-
 - type: textarea
   attributes:
     label: Additional Information
