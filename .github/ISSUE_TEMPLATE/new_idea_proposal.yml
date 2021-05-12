@@ -1,7 +1,8 @@
 ---
-name: New idea or proposal 
+name: New idea or proposal
 description: Suggest an idea or submit a new proposal to help improve the Ansible Community.
 
+body:
 - type: textarea
   attributes:
     label: Summary
