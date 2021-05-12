@@ -1,0 +1,20 @@
+---
+name: New idea or proposal 
+description: Suggest an idea or submit a new proposal to help improve the Ansible Community.
+
+- type: textarea
+  attributes:
+    label: Summary
+    description: Explain the new idea or proposal briefly below.
+    placeholder: >-
+      Details about the new idea/proposal and links to GitHub issues/PRs if any.
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Additional Information
+    description: |
+      **HINT:** You can paste https://gist.github.com links for larger files.
+  validations:
+    required: false
