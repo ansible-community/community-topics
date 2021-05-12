@@ -1,6 +1,6 @@
 ---
 name: New idea or proposal 
-description: Suggest an idea or submit a new proposal to improvise the Ansible Community.
+description: Suggest an idea or submit a new proposal to help improve the Ansible Community.
 
 - type: textarea
   attributes:
