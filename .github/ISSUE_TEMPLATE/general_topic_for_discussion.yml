@@ -2,6 +2,7 @@
 name: General topic
 description: Describe the general topic that you want to discuss in the weekly IRC community meeting.
 
+body:
 - type: textarea
   attributes:
     label: Summary
