@@ -54,7 +54,7 @@ After a topic is created, a Steering Committee member (hereinafter `Committee pe
 
   - [ ] Assigns the topic to a person responsible for performing the actions.
   - [ ] Add the `being_implemented` label to the topic.
-- After the topic is implemented, the assignee:
+- [ ] After the topic is implemented, the assignee:
 
   - [ ] Comments on the topic that the work is done.
   - [ ] Removes the `being_implemented` label.
