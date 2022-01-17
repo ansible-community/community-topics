@@ -14,7 +14,7 @@ After a topic is created, a Steering Committee member (hereinafter `Committee pe
 
 ## Workflow
 
-**Note:** This is a rough scenario and it can vary depending on topic's compexity and other nuances.
+**Note:** This is a rough scenario and it can vary depending on a topic's complexity and other nuances, for example, when there is a mass agreement up-front.
 
 ### Preparation stage
 
@@ -28,6 +28,7 @@ After a topic is created, a Steering Committee member (hereinafter `Committee pe
   - [ ] Adds the `discussion_topic` label.
   - [ ] Moves the topic to the `In Discussion` column on the [Board](https://github.com/orgs/ansible-community/projects/2/views/5).
   - [ ] Open the discussion by adding a comment asking the Community and the Committee to take part in it.
+- [ ] No sync discussion is needed (there are no blockers, complications, confusion, or impasses).
 
 ### Voting stage
 
