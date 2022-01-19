@@ -28,7 +28,7 @@ After a topic is created, a Steering Committee member (hereinafter `Committee pe
   - [ ] Adds the `discussion_topic` label.
   - [ ] Moves the topic to the `In Discussion` column on the [Board](https://github.com/orgs/ansible-community/projects/2/views/5).
   - [ ] Opens the discussion by adding a comment asking the Community and the Committee to take part in it.
-- [ ] No sync discussion is needed (there are no blockers, complications, confusion, or impasses).
+- [ ] No synchronous discussion is needed (there are no blockers, complications, confusion, or impasses).
 
 ### Voting stage
 
