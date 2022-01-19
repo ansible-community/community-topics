@@ -32,7 +32,7 @@ After a topic is created, a Steering Committee member (hereinafter `Committee pe
 
 ### Voting stage
 
-- [ ] Depending on the topic's complexity, after 1-2 weeks pass since the discussion was open, the Committee person formulates vote options based on the prior discussion and gives participants reasonable amount of time to propose changes to the options (no longer than a week). The person summarizes the options in a comment and also establishes a date when the vote begins if there are no objections about the options / vote date.
+- [ ] Depending on the topic's complexity, 1-2 weeks after the discussion was opened, the Committee person formulates vote options based on the prior discussion and gives participants reasonable amount of time to propose changes to the options (no longer than a week). The person summarizes the options in a comment and also establishes a date when the vote begins if there are no objections about the options / vote date.
 - [ ] In the vote date, the vote starts with the comment of a Committee person which opens the vote and establishes a date when the vote ends ($CURRENT_DATE + no longer than 14 days).
 - [ ] The Committee person labels the topic with the `active-vote` label and moves the topic to the `Active Vote` column on the [Board](https://github.com/orgs/ansible-community/projects/2/views/5).
 - [ ] The Committee person adds `[Vote ends on $YYYY-MM-DD]` to the beginning of the topic's description.
