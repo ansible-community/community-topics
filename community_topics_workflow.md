@@ -4,7 +4,7 @@
 
 **Warning:** Subject to frequent updates. This is a "living document", expect it to change as we progress with the Community Topics workflow over the next few months.
 
-This document describes the Ansible Community Topics workflow (hereinafter `Workflow`) to provide guidance on successful resolving the topics in the asynchronous way.
+This document describes the Ansible Community Topics workflow (hereinafter `Workflow`) to provide guidance on successful resolving topics in the asynchronous way.
 
 The Workflow is a set of actions that need to be done successively within the corresponding time frames.
 
