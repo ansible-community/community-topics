@@ -46,8 +46,8 @@ After a topic is created, a Steering Committee member (hereinafter `Committee pe
   - [ ] Changes the beginning of the topic's description to `[Vote ended]`.
   - [ ] Counts the votes separating ones made by Community and made by Committee and creates a summary comment containing the result.
   - [ ] Asks another Committee person to count the votes and provide the summary.
-- [ ] Up to the [next](https://github.com/ansible/community/blob/main/meetings/README.md#wednesdays) Community meeting, at least two Steering Committee members count the votes and summarize the result in comments.
-- [ ] The vote's result and the final decision are announced in the Community meeting.
+- [ ] At least two Steering Committee members count the votes and summarize the result in comments.
+- [ ] The vote's result and the final decision are announced via the [Bullhorn](https://github.com/ansible/community/issues/546).
 
 ### Implementation stage
 
