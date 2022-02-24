@@ -26,7 +26,7 @@ flowchart TB;
       H --> I2(Video chat) -->I
       I(Report back to GitHub as a comment) --> F
   end
-  subgraph fcp [final comment period]
+  subgraph fcp [vote period]
       direction TB
       K("Core" Team member moves issue to Final Comment Period)
       K --- K1(This is not the author)
