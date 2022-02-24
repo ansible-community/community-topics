@@ -18,7 +18,7 @@ flowchart TB;
     E --> F(Discussion continues to resolve concerns) --> F --> G
     F --> J(Majority consensus, maybe 75%?)
   end  
-    subgraph sync [optional sync chat]
+    subgraph sync [optional sync chat (only exceptional cases)]
       direction TB
       G(Discussion impasse) --> H
       H(Schedule realtime discussion between parties)
