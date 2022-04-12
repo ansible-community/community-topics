@@ -18,7 +18,7 @@ If you want to discuss an idea, improvements or submit new Policy/Proposals & Ne
 Some of the topics can be additionally discussed in the weekly Community Meetings though final decisions are always made by **asynchronous** voting in the topics.
 
 See the Community Working Group meeting [schedule](https://github.com/ansible/community/blob/main/meetings/README.md#wednesdays) and join us in any of the following bridged channels:
-* on [Matrix](https://docs.ansible.com/ansible/latest/community/communication.html#ansible-community-on-matrix): `#community:ansible.im`
+* on [Matrix](https://docs.ansible.com/ansible/latest/community/communication.html#ansible-community-on-matrix): [#community:ansible.com](https://matrix.to/#/#community:ansible.com)
 * on [LiberaChat IRC](https://docs.ansible.com/ansible/latest/community/communication.html#ansible-community-on-irc): `#ansible-community`
 
 Meeting summaries are posted in the [Community Working Group Meeting Agenda issue](https://github.com/ansible/community/issues?q=is%3Aopen+label%3Ameeting_agenda+label%3Acommunity+).
