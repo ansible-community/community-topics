@@ -60,4 +60,9 @@ After a topic is created, a Steering Committee member (hereinafter `Committee pe
   - [ ] Comments on the topic that the work is done.
   - [ ] Removes the `being_implemented` label.
   - [ ] Add the `implemented` label.
+- [ ] If the topic implies actions related to the future Ansible Community package releases (for example, a collection exclusion), the Committee person:
+
+  - [ ] Adds the `scheduled_for_future_release` label to the topic.
+  - [ ] Checks if there's a corresponding milestone in the [ansible-build-data](https://github.com/ansible-community/ansible-build-data/milestones) repository. If there's no milestone, the person creates it.
+  - [ ] Creates an issue in ansible-build-data that references the topic in community-topics, and adds it to the milestone.
 - [ ] A Committee person moves the topic to the `Resolved` column on the [Board](https://github.com/orgs/ansible-community/projects/2/views/5) and closes the topic.
