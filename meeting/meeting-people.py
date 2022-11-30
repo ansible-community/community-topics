@@ -12,7 +12,7 @@ else:
 
 
 def main():
-    path = Path(__file__).parent.joinpath("meeting-people.txt")
+    path = Path(__file__).resolve().parent.joinpath("meeting-people.txt")
     with path.open(encoding="utf-8") as fp:
         people = sorted(
             [
