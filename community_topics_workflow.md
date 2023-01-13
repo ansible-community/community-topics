@@ -66,3 +66,7 @@ After a topic is created, a Steering Committee member (hereinafter `Committee pe
   - [ ] Checks if there's a corresponding milestone in the [ansible-build-data](https://github.com/ansible-community/ansible-build-data/milestones) repository. If there's no milestone, the person creates it.
   - [ ] Creates an issue in ansible-build-data that references the topic in community-topics, and adds it to the milestone.
 - [ ] A Committee person moves the topic to the `Resolved` column on the [Board](https://github.com/orgs/ansible-community/projects/2/views/5) and closes the topic.
+
+### Tools
+
+We have some [scripts](https://github.com/ansible-community/community-topics/tree/main/scripts) that can be used to create Ansible community announcements on Bullhorn and similar.
