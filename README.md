@@ -1,5 +1,7 @@
 # community-topics
 
+[![Discuss at #community:ansible.com on Matrix](https://img.shields.io/matrix/community:ansible.com.svg?server_fqdn=ansible-accounts.ems.host&label=Discuss%20at%20%23community:ansible.com&logo=matrix)](https://matrix.to/#/#community:ansible.com)
+
 This repository contains topics that will be discussed and voted by the Ansible Community and the [Ansible Community Steering Committee](https://docs.ansible.com/ansible/devel/community/steering/community_steering_committee.html) asynchronously.
 
 If you want to discuss an idea, improvements or submit new Policy/Proposals & New Collection Inclusion Requests then create a new [issue](https://github.com/ansible-community/community-topics/issues) in this repo as a topic.
