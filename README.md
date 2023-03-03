@@ -6,7 +6,7 @@ This repository contains topics that will be discussed and voted by the Ansible 
 
 The **scope** of the topics is changes impacting the Ansible community, contributor experience, Ansible Community package, and community collections.
 
-If you want to discuss something that satisfies the scope then create a new [topic](https://github.com/ansible-community/community-topics/issues) or comment on [existing](https://github.com/ansible-community/community-topics/issues) one.
+If you want to discuss something that satisfies the scope then [create a new topic](https://github.com/ansible-community/community-topics/issues) or [comment on an existing one](https://github.com/ansible-community/community-topics/issues).
 
 You do **NOT** need any special status (for example, to be a Steering Committee member) to create the topics or take part in the discussions asynchronously in the topics or in the meetings (see below). Any opinions are equally welcome and appreciated!
 
