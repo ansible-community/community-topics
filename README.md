@@ -2,18 +2,13 @@
 
 [![Discuss on Matrix at #community:ansible.com](https://img.shields.io/matrix/community:ansible.com.svg?server_fqdn=ansible-accounts.ems.host&label=Discuss%20on%20Matrix%20at%20%23community:ansible.com&logo=matrix)](https://matrix.to/#/#community:ansible.com)
 
-This repository contains topics that will be discussed and voted by the Ansible Community and the [Ansible Community Steering Committee](https://docs.ansible.com/ansible/devel/community/steering/community_steering_committee.html) asynchronously.
+This repository contains topics that will be discussed and voted by the Ansible Community (all interested people) and the [Ansible Community Steering Committee](https://docs.ansible.com/ansible/devel/community/steering/community_steering_committee.html) asynchronously.
 
-If you want to discuss an idea, improvements or submit new Policy/Proposals & New Collection Inclusion Requests then create a new [issue](https://github.com/ansible-community/community-topics/issues) in this repo as a topic.
+The **scope** of the topics is changes impacting the Ansible community, contributor experience, Ansible Community package, and community collections.
 
-## Process for handling meeting topics
+If you want to discuss something that satisfies the scope then [create a new topic](https://github.com/ansible-community/community-topics/issues) or [comment on an existing one](https://github.com/ansible-community/community-topics/issues).
 
-1. Every agenda item is created as an issue in this repository.
-2. The agenda (https://github.com/ansible/community/issues/539) is locked, and only meeting summaries/minutes are posted.
-3. All steering committee members can add/remove labels, and we use labels to denote priorities, area of topic, and add `next_meeting` if we think this should be discussed in the next meeting.
-4. At the meeting, we look at the list of open issues, and issues with `next_meeting` get first priority.
-    * Currently we assume that the list of open issues won't be too long, and that not too many will have a `next_meeting` label, so we don't need a fully defined process on how to select topics for the meeting.
-    * If we find out that this assumption isn't good, we can re-evaluate/discuss this in a meeting.
+You do **NOT** need any special status (for example, to be a Steering Committee member) to create the topics or take part in the discussions asynchronously in the topics or in the meetings (see below). Any opinions are equally welcome and appreciated!
 
 ## Community meetings
 
@@ -23,4 +18,10 @@ See the Community Working Group meeting [schedule](https://github.com/ansible/co
 * on [Matrix](https://docs.ansible.com/ansible/latest/community/communication.html#ansible-community-on-matrix): [#community:ansible.com](https://matrix.to/#/#community:ansible.com)
 * on [LiberaChat IRC](https://docs.ansible.com/ansible/latest/community/communication.html#ansible-community-on-irc): `#ansible-community`
 
-Meeting summaries are posted in the [Community Working Group Meeting Agenda issue](https://github.com/ansible/community/issues?q=is%3Aopen+label%3Ameeting_agenda+label%3Acommunity+).
+Meeting summaries are posted in the [Community Working Group Meeting Agenda issue](https://github.com/ansible/community/issues?q=is%3Aopen+label%3Ameeting_agenda+label%3Acommunity+label%3Acontributor_experience).
+
+## Process for handling the community topics
+
+The process of handling the topics is described in the:
+* [Ansible Community Steering Committee policy](https://docs.ansible.com/ansible/devel/community/steering/community_steering_committee.html)
+* [Community Topics Workflow document](https://github.com/ansible-community/community-topics/blob/main/community_topics_workflow.md)
