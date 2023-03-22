@@ -1,6 +1,6 @@
 # Ansible Community Meeting
 
-The Ansible Community Meeting happens weekly on Wednesdays at 19:00 UTC in
+The Ansible Community Meeting happens weekly on Wednesdays at 18:00 UTC in
 #ansible-community (libera.chat) /
 [#community:ansible.com](https://matrix.to/#/#community:ansible.com) (Matrix).
 
