@@ -6,7 +6,7 @@ then
     echo "usage: $0 collection_name communiy_topic ansible_version"
     exit 1
 fi
-echo "Unmaintained collection: Removal from Ansible (communtiy) package
+echo "Unmaintained collection: Removal from Ansible (community) package
 
 It looks like this collection is effectively unmaintained. According to the current [community guidelines for collections](https://github.com/ansible-collections/overview/blob/main/removal_from_ansible.rst#unmaintained-collections), we will consider removing it in a future version of the Ansible community package. Please see [Unmaintained collection: $1]($2) for more information.
 
