@@ -74,7 +74,6 @@ Any user can [created a topic](https://forum.ansible.com/new-topic?title=topic%2
   - [ ] Adds the `scheduled_for_future_release` tag to the topic.
   - [ ] Checks if there's a corresponding milestone in the [ansible-build-data](https://github.com/ansible-community/ansible-build-data/milestones) repository. If there's no milestone, the person creates it.
   - [ ] Creates an issue in ansible-build-data that references the topic in community-topics, and adds it to the milestone.
-- [ ] A Committee person moves the topic to the `Resolved` column on the [Board](https://github.com/orgs/ansible-community/projects/2/views/5) and closes the topic.
 
 ### Tools
 
