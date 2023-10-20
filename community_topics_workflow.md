@@ -47,7 +47,6 @@ Any user can [created a topic](https://forum.ansible.com/new-topic?title=topic%2
   - [ ] Submit the poll (the BBcode will appear in the post) and then repeat the above for the second poll.
     - [ ] Title should be "Community vote".
     - [ ] No group limitation.
-    - [ ] Results "Staff only" (i.e. an anonymous vote, but admins can check if there are concerns).
 
 ### Voting result stage
 
