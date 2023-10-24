@@ -63,15 +63,15 @@ Any user can [created a topic](https://forum.ansible.com/new-topic?title=topic%2
 - [ ] If the topic implies some actions (if it does not, just mark this as complete), the Committee person:
 
   - [ ] Assigns the topic to a person responsible for performing the actions.
-  - [ ] Add the `being_implemented` tag to the topic.
+  - [ ] Add the `being-implemented` tag to the topic.
 - [ ] After the topic is implemented, the assignee:
 
   - [ ] Comments on the topic that the work is done.
-  - [ ] Removes the `being_implemented` tag.
+  - [ ] Removes the `being-implemented` tag.
   - [ ] Add the `implemented` tag.
 - [ ] If the topic implies actions related to the future Ansible Community package releases (for example, a collection exclusion), the Committee person:
 
-  - [ ] Adds the `scheduled_for_future_release` tag to the topic.
+  - [ ] Adds the `scheduled-for-future-release` tag to the topic.
   - [ ] Checks if there's a corresponding milestone in the [ansible-build-data](https://github.com/ansible-community/ansible-build-data/milestones) repository. If there's no milestone, the person creates it.
   - [ ] Creates an issue in ansible-build-data that references the topic in community-topics, and adds it to the milestone.
 
