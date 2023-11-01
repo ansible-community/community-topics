@@ -12,7 +12,7 @@ The Workflow is a set of actions that need to be done successively within the co
 
 ## Creating a topic
 
-Any user can [create a topic](https://forum.ansible.com/new-topic?title=topic%20title&body=topic%20body&category=project&tags=steering-committee) tagged with `steering-committee` under the `Project Discussions` category in the [Ansible Forum](https://forum.ansible.com/). A steering committee member can tag the forum post with `community-meeting` to put it on the meeting agenda.
+Any user can [create a topic](https://forum.ansible.com/new-topic?title=topic%20title&body=topic%20body&category=project&tags=community-wg) tagged with `community-wg` under the `Project Discussions` category in the [Ansible Forum](https://forum.ansible.com/). A steering committee member can tag the forum post with `community-wg-nextmtg` to put it on the meeting agenda.
 
 ## Workflow
 
@@ -26,7 +26,7 @@ Any user can [create a topic](https://forum.ansible.com/new-topic?title=topic%20
 
 - [ ] If the topic is ready to be discussed, the Committee person:
 
-  - [ ] Adds the `community-meeting` tag if it needs to be discussed in the meeting.
+  - [ ] Adds the `community-wg-nextmtg` tag if it needs to be discussed in the meeting.
   - [ ] Opens the discussion by adding a comment asking the Community and the Committee to take part in it.
 - [ ] No synchronous discussion is needed (there are no blockers, complications, confusion, or impasses).
 
