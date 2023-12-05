@@ -52,6 +52,7 @@ Any user can [create a topic](https://forum.ansible.com/new-topic?title=topic%20
 
 - [ ] The next day after the last day of the vote, the Committee person:
 
+  - [ ] Closes the polls.
   - [ ] Removes the `active-vote` tag.
   - [ ] Add a comment that the vote ended.
   - [ ] Changes the beginning of the topic's description to `[Vote ended]`.
