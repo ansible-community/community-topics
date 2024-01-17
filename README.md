@@ -2,11 +2,13 @@
 
 [![Discuss on Matrix at #community:ansible.com](https://img.shields.io/matrix/community:ansible.com.svg?server_fqdn=ansible-accounts.ems.host&label=Discuss%20on%20Matrix%20at%20%23community:ansible.com&logo=matrix)](https://matrix.to/#/#community:ansible.com)
 
-This repository contains topics that will be discussed and voted by the Ansible Community (all interested people) and the [Ansible Community Steering Committee](https://docs.ansible.com/ansible/devel/community/steering/community_steering_committee.html) asynchronously.
+This repository historically contained topics to be discussed and voted by the Ansible Community (all interested people) and the [Ansible Community Steering Committee](https://docs.ansible.com/ansible/devel/community/steering/community_steering_committee.html) asynchronously.
 
-The **scope** of the topics is changes impacting the Ansible community, contributor experience, Ansible Community package, and community collections.
+The **scope** of the topics was changes impacting the Ansible community, contributor experience, Ansible Community package, and community collections.
 
-If you want to discuss something that satisfies the scope then [create a new topic](https://github.com/ansible-community/community-topics/issues) or [comment on an existing one](https://github.com/ansible-community/community-topics/issues).
+We decided to discuss those topics in the [Ansible forum](https://forum.ansible.com) in the future. However, we will not move the existing discussions to the forum and will keep to work on them here.
+
+From now on, if you want to discuss something that satisfies the scope then [create a new topic](https://forum.ansible.com/new-topic?title=topic%20title&body=topic%20body&category=project&tags=community-wg) tagged with `community-wg` under the `Project Discussions` category or [comment on an existing one](https://forum.ansible.com/search?expanded=true&q=%23project%20tags%3Acommunity-wg).
 
 You do **NOT** need any special status (for example, to be a Steering Committee member) to create the topics or take part in the discussions asynchronously in the topics or in the meetings (see below). Any opinions are equally welcome and appreciated!
 
