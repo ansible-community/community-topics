@@ -4,7 +4,7 @@
 
 This repository historically contained topics to be discussed and voted by the Ansible Community (all interested people) and the [Ansible Community Steering Committee](https://docs.ansible.com/ansible/devel/community/steering/community_steering_committee.html) asynchronously.
 
-The **scope** of the topics was changes impacting the Ansible community, contributor experience, Ansible Community package, and community collections.
+The **scope** of the topics includes changes impacting the Ansible community, contributor experience, Ansible Community package, and community collections.
 
 We decided to discuss those topics in the [Ansible forum](https://forum.ansible.com) in the future. However, we will not move the existing discussions to the forum and will keep to work on them here.
 
