@@ -10,6 +10,8 @@ We decided to discuss those topics in the [Ansible forum](https://forum.ansible.
 
 From now on, if you want to discuss something that satisfies the scope then [create a new topic](https://forum.ansible.com/new-topic?title=topic%20title&body=topic%20body&category=project&tags=community-wg) tagged with `community-wg` under the `Project Discussions` category or [comment on an existing one](https://forum.ansible.com/search?expanded=true&q=%23project%20tags%3Acommunity-wg).
 
+All active votes in the Ansible Forum can be found using [the intersection of the `community-wg` and `active-vote` tags](https://forum.ansible.com/tags/intersection/community-wg/active-vote).
+
 You do **NOT** need any special status (for example, to be a Steering Committee member) to create the topics or take part in the discussions asynchronously in the topics or in the meetings (see below). Any opinions are equally welcome and appreciated!
 
 ## Community meetings
