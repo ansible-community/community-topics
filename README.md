@@ -8,7 +8,7 @@ The **scope** of the topics includes changes impacting the Ansible community, co
 
 We decided to discuss those topics in the [Ansible forum](https://forum.ansible.com) in the future. However, we will not move the existing discussions to the forum and will keep to work on them here.
 
-From now on, if you want to discuss something that satisfies the scope then [create a new topic](https://forum.ansible.com/new-topic?title=topic%20title&body=topic%20body&category=project&tags=community-wg) tagged with `community-wg` under the `Project Discussions` category or [comment on an existing one](https://forum.ansible.com/search?expanded=true&q=%23project%20tags%3Acommunity-wg).
+From now on, if you want to discuss something that satisfies the scope then [create a new topic](https://forum.ansible.com/new-topic?category=project&tags=community-wg) tagged with `community-wg` under the `Project Discussions` category or [comment on an existing one](https://forum.ansible.com/tags/c/project/7/community-wg).
 
 All active votes in the Ansible Forum can be found using [the intersection of the `community-wg` and `active-vote` tags](https://forum.ansible.com/tags/intersection/community-wg/active-vote).
 
