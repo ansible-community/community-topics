@@ -12,7 +12,7 @@ From now on, if you want to discuss something that satisfies the scope then [cre
 
 All active votes in the Ansible Forum can be found using [the intersection of the `community-wg` and `active-vote` tags](https://forum.ansible.com/tags/intersection/community-wg/active-vote).
 
-You do **NOT** need any special status (for example, to be a Steering Committee member) to create the topics or take part in the discussions asynchronously in the topics or in the meetings (see below). Any opinions are equally welcome and appreciated!
+Community members may create topics, take part in asynchronous discussions, and vote! All opinions are equally welcome and appreciated. You do **NOT** need to be a Steering Committee member or to have any other special status to create topics or take part in the discussions asynchronously in the topics or in the meetings (see below). 
 
 ## Community meetings
 
