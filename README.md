@@ -2,7 +2,7 @@
 
 [![Discuss on Matrix at #community:ansible.com](https://img.shields.io/matrix/community:ansible.com.svg?server_fqdn=ansible-accounts.ems.host&label=Discuss%20on%20Matrix%20at%20%23community:ansible.com&logo=matrix)](https://matrix.to/#/#community:ansible.com)
 
-This repository historically contained topics to be discussed and voted by the Ansible Community (all interested people) and the [Ansible Community Steering Committee](https://docs.ansible.com/ansible/devel/community/steering/community_steering_committee.html) asynchronously.
+This repository contains historical topics for the Ansible Community (all interested people) and the [Ansible Community Steering Committee](https://docs.ansible.com/ansible/devel/community/steering/community_steering_committee.html) to discuss and vote on asynchronously.
 
 The **scope** of the topics includes changes impacting the Ansible community, contributor experience, Ansible Community package, and community collections.
 
