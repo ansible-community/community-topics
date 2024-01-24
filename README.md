@@ -2,13 +2,17 @@
 
 [![Discuss on Matrix at #community:ansible.com](https://img.shields.io/matrix/community:ansible.com.svg?server_fqdn=ansible-accounts.ems.host&label=Discuss%20on%20Matrix%20at%20%23community:ansible.com&logo=matrix)](https://matrix.to/#/#community:ansible.com)
 
-This repository contains topics that will be discussed and voted by the Ansible Community (all interested people) and the [Ansible Community Steering Committee](https://docs.ansible.com/ansible/devel/community/steering/community_steering_committee.html) asynchronously.
+This repository contains historical topics for the Ansible Community (all interested people) and the [Ansible Community Steering Committee](https://docs.ansible.com/ansible/devel/community/steering/community_steering_committee.html) to discuss and vote on asynchronously.
 
-The **scope** of the topics is changes impacting the Ansible community, contributor experience, Ansible Community package, and community collections.
+The **scope** of the topics includes changes impacting the Ansible community, contributor experience, Ansible Community package, and community collections.
 
-If you want to discuss something that satisfies the scope then [create a new topic](https://github.com/ansible-community/community-topics/issues) or [comment on an existing one](https://github.com/ansible-community/community-topics/issues).
+We decided to discuss those topics in the [Ansible forum](https://forum.ansible.com) in the future. However, we will not move the existing discussions to the forum and will keep to work on them here.
 
-You do **NOT** need any special status (for example, to be a Steering Committee member) to create the topics or take part in the discussions asynchronously in the topics or in the meetings (see below). Any opinions are equally welcome and appreciated!
+From now on, if you want to discuss something that satisfies the scope then [create a new topic](https://forum.ansible.com/new-topic?category=project&tags=community-wg) tagged with `community-wg` under the `Project Discussions` category or [comment on an existing one](https://forum.ansible.com/tags/c/project/7/community-wg).
+
+All active votes in the Ansible Forum can be found using [the intersection of the `community-wg` and `active-vote` tags](https://forum.ansible.com/tags/intersection/community-wg/active-vote).
+
+Community members may create topics, take part in asynchronous discussions, and vote! All opinions are equally welcome and appreciated. You do **NOT** need to be a Steering Committee member or to have any other special status to create topics or take part in the discussions asynchronously in the topics or in the meetings (see below). 
 
 ## Community meetings
 
